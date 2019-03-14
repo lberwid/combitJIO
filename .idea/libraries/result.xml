@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="result">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JIO/tests/combitListLabel24Output/target/result.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

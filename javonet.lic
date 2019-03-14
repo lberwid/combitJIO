@@ -1,0 +1,29 @@
+<auth xmlns="">
+  <licenceKey>Jm9a-Mr78-Hi5x-r4P5-x2SJ</licenceKey>
+  <isServerEditionOs>False</isServerEditionOs>
+  <hostname><![CDATA[DESKTOP-5AJAB9H]]></hostname>
+  <productVersion>1.5.120.36165</productVersion>
+  <userName>SdNcenter sp. z o.o.</userName>
+  <appName>javOnetTrial|javOnet|Javonet</appName>
+  <appVersion>3.0</appVersion>
+  <email>lberwid@sdncenter.pl</email>
+  <verify>Xz33IW1uToXvvwXlBV2GSeGGkGUV8JIWOyGzrJAvhcfOQhK7XxN3+17m8XpXcQhjD0xsjkmcjI6H0ug//UwraHywvjvh1kzZUgexAMfIwhUbPDKAqqbEsazp3kcoYGQnJx39Ur30d3iAkc5D9XNbzYKcXOuCQcMVu7BQr5nNOiU=</verify>
+  <callsAllowed />
+  <classesAllowed />
+  <licenseType>JavonetProfessional</licenseType>
+  <approvedIds>d8UbcSm1uiL4A6R8So/aHE+i2vs3CRyAZPSl4SrlvmVkuT9Rf33sgsHyhciNfzSnwPJXTw0Vj/lpqRh2TAYrXom3568tr5dSe98e5YTY+j10sxr09lF18vWwTWyiG1lUkSB6+MyO8L9prNbtMvA60Uooio5iFWiu4zWuWlfkfAU=</approvedIds>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>c+8RP/HZK2DXLRPDI6Eb6hNqmdM=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>hCG5C2JwpKB3L15BfkD/k8Fgm6NIoUtaoSx2rUS96LmuzuXKIb1KknePhzsqKJT1FsqCi/EjQ6bmsRJjdQ5McMbtC3I5B+JupAOQA16jYhaLJUxe9zyUr6qrGPSBCXyoePB0thKVQh9pJnYZHTEmlY/JEOyR/00P1Vkzdo3zYkA=</SignatureValue>
+  </Signature>
+</auth>

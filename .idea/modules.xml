@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CombitAutomaticWrapper.iml" filepath="$PROJECT_DIR$/CombitAutomaticWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JIO/tests/combitListLabel24Output/combitListLabel24Output.iml" filepath="$PROJECT_DIR$/../JIO/tests/combitListLabel24Output/combitListLabel24Output.iml" />
+    </modules>
+  </component>
+</project>

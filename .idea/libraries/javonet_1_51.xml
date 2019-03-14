@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javonet-1.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JIO/tests/combitListLabel24Output/javonet-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
